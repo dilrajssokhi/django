@@ -1,0 +1,8 @@
+{% if external_response %}
+    <ul>
+        {{ external_response }}
+    </ul>
+{% else %}
+    <p> Error in loading external webpage, Either webpage timed out 
+        or Try using complete URL like http://www.google.com</p>
+{% endif %}

@@ -1,0 +1,28 @@
+<h2> URL Shortner</h2>
+
+<br/>
+<form action="{% url 'urlShortner:index'%}" method="post">
+    {% csrf_token %}
+    <input type="text" name="url" value="{{ request.POST.url }}"/>
+    <input type="submit" value="Submit"/>
+</form>
+
+{% if input_url %}
+    <ul>
+        <li><a href="{{ input_url }}" target="_blank">{{ input_url }}</a></li>
+    </ul>
+{% else %}
+    <p> Enter url for shortening</p>
+{% endif %}
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h6> URL Shortner API service built using Python 2.7.8 and Django 1.8.3</h6>
