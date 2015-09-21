@@ -9,7 +9,9 @@ URL provided is shortened into BASE62 format with encoding consiting of [a-zA-Z0
 mysite/urls.py specifies the url r'/urlShortener/' which calls the API mentioned in urlShortner/urls.py
 
 You can sync the db using the models and migrations in urlShortner/models.py urlShortner/migrations/..
+
 python manage.py makemigrations
+
 python manage.py migrate
 
 
