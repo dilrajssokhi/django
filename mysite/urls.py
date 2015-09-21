@@ -17,8 +17,6 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^polls/', include('polls.urls', namespace="polls")),
-    url(r'^movies/', include('movies.urls', namespace="movies")),
     url(r'^urlShortner/', include('urlShortner.urls', namespace="urlShortner")),
     url(r'^admin/', include(admin.site.urls)),
 ]
