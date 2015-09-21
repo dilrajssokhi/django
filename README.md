@@ -12,4 +12,7 @@ If shortened URL is fed to the service, then API checks db for the short-urls li
 You can access full-urls by clicking on the link provided after looking up short-url in db. externalURL in urlShortner/views.py loads the content of the full-url using requests and renders the webpage at urlShortener/templates/urlShortener/externalURL.html
 
 You can sync the db using the models.py and migration files in urlShortner/migrations/ using:
+
 python manage.py migrate
+
+Django's admin functionality can be used by logging on as admin on localhost:8000/admin/ and manageing full URLs and their subsequent short-URLs from URL shortners on Site administration page.
