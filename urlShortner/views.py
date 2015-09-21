@@ -38,9 +38,9 @@ def index(request):
 	    search_url = urlShortner.objects.get(Q(shorturl=input_url) | 
                                                  Q(fullurl=input_url))
             if (input_url == search_url.fullurl):
-                context = {'input_url': search_url.shorturl}
+                context = {'output_url': search_url.shorturl}
             elif (input_url == search_url.shorturl):
-                context = {'input_url': search_url.fullurl}
+                context = {'output_url': search_url.fullurl}
         except:
             newurl = urlShortner(fullurl=input_url,
                                  entry_date=timezone.now())
@@ -51,5 +51,5 @@ def index(request):
             newurl.shorturl = output_url
             newurl.save()
 
-            context = {'input_url': output_url}
+            context = {'output_url': output_url}
         return render(request, 'urlShortner/index.html', context)
