@@ -2,6 +2,7 @@
 API is built using Python 2.7.8 -- Django 1.8.3 -- SQLite 3.2
 
 Django app for URL Shortening: localhost:8000/urlShortner/
+
 r'^urlShortener/' URLconf is added in mysite/urls.py which directs all '/urlShortner/' API calls to urlShortner/urls.py
 
 URL provided is shortened into BASE62 format with encoding consiting of [a-zA-Z0-9]. The URL fed is stored in SQLite database with unique id. This autoincrementing integer id is used for conversion from BASE10 to BASE62 in getshorturl() provided in urlShortener/views.py.
