@@ -2,7 +2,6 @@ from django.db import models
 import datetime
 from django.utils import timezone
 
-
 # Create your models here.
 class urlShortner(models.Model):
     fullurl = models.URLField(max_length=200)
