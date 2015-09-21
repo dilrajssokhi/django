@@ -23,7 +23,6 @@ def externalURL(request,external_url):
     context = {}
     try:
         external_response = requests.get(external_url)
-        print external_response
         context = {'external_response': external_response}
     except:
         context = {'external_response': []}
