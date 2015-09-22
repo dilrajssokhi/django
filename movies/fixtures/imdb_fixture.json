@@ -1,0 +1,2978 @@
+[
+  {
+    "fields": {
+      "movie_name": "The Wizard of Oz", 
+      "movie_genre": "Adventure, Family, Fantasy, Musical", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Victor Fleming", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 1
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Wars", 
+      "movie_genre": "Action, Adventure, Fantasy, Sci-Fi", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "George Lucas", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 2
+  }, 
+  {
+    "fields": {
+      "movie_name": "Cabiria", 
+      "movie_genre": "Adventure, Drama, War", 
+      "movie_99popularity": "66.0", 
+      "movie_director": "Giovanni Pastrone", 
+      "movie_imdbscore": "6.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 3
+  }, 
+  {
+    "fields": {
+      "movie_name": "Psycho", 
+      "movie_genre": "Horror, Mystery, Thriller", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 4
+  }, 
+  {
+    "fields": {
+      "movie_name": "King Kong", 
+      "movie_genre": "Adventure, Fantasy, Horror", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Merian C. Cooper", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 5
+  }, 
+  {
+    "fields": {
+      "movie_name": "Metropolis", 
+      "movie_genre": "Adventure, Drama, Sci-Fi", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Fritz Lang", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 6
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Trek", 
+      "movie_genre": "Adventure, Sci-Fi", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Marc Daniels", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 7
+  }, 
+  {
+    "fields": {
+      "movie_name": "Casablanca", 
+      "movie_genre": "Drama, Romance, War", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Michael Curtiz", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 8
+  }, 
+  {
+    "fields": {
+      "movie_name": "Snow White and the Seven Dwarfs", 
+      "movie_genre": "Animation, Family, Fantasy, Musical, Romance", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "William Cottrell", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 9
+  }, 
+  {
+    "fields": {
+      "movie_name": "2001 : A Space Odyssey", 
+      "movie_genre": "Adventure, Mystery, Sci-Fi", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 10
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Godfather", 
+      "movie_genre": "Crime, Drama", 
+      "movie_99popularity": "92.0", 
+      "movie_director": "Francis Ford Coppola", 
+      "movie_imdbscore": "9.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 11
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Birth of a Nation", 
+      "movie_genre": "Drama, History, Romance, War, Western", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "D.W. Griffith", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 12
+  }, 
+  {
+    "fields": {
+      "movie_name": "Shadow of a Doubt", 
+      "movie_genre": "Crime, Film-Noir, Mystery, Thriller", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 13
+  }, 
+  {
+    "fields": {
+      "movie_name": "Jaws", 
+      "movie_genre": "Thriller", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 14
+  }, 
+  {
+    "fields": {
+      "movie_name": "Snow White", 
+      "movie_genre": "Fantasy, Romance", 
+      "movie_99popularity": "64.0", 
+      "movie_director": "J. Searle Dawley", 
+      "movie_imdbscore": "6.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 15
+  }, 
+  {
+    "fields": {
+      "movie_name": "Apocalypse Now", 
+      "movie_genre": "Drama, War", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Francis Ford Coppola", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 16
+  }, 
+  {
+    "fields": {
+      "movie_name": "Gone with the Wind", 
+      "movie_genre": "Drama, Romance, War", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Victor Fleming", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 17
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Merry Widow", 
+      "movie_genre": "Musical, Comedy, Romance", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Ernst Lubitsch", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 18
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Searchers", 
+      "movie_genre": "Adventure, Drama, Western", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "John Ford", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 19
+  }, 
+  {
+    "fields": {
+      "movie_name": "Vertigo", 
+      "movie_genre": "Crime, Mystery, Romance, Thriller", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 20
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dr. No", 
+      "movie_genre": "Action, Adventure, Thriller", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Terence Young", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 21
+  }, 
+  {
+    "fields": {
+      "movie_name": "Touch of Evil", 
+      "movie_genre": "Crime, Film-Noir, Thriller", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Orson Welles", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 22
+  }, 
+  {
+    "fields": {
+      "movie_name": "Chang : A Drama of the Wilderness", 
+      "movie_genre": "Adventure, Documentary", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Merian C. Cooper", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 23
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Exorcist", 
+      "movie_genre": "Horror", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "William Friedkin", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 24
+  }, 
+  {
+    "fields": {
+      "movie_name": "Citizen Kane", 
+      "movie_genre": "Drama, Mystery", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Orson Welles", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 25
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Terminator", 
+      "movie_genre": "Action, Sci-Fi, Thriller", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "James Cameron", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 26
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rosemarys Baby", 
+      "movie_genre": "Drama, Horror, Mystery", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Roman Polanski", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 27
+  }, 
+  {
+    "fields": {
+      "movie_name": "Bronenosets Potyomkin", 
+      "movie_genre": "Drama, History, War", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Sergei M. Eisenstein", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 28
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Wars : Episode V - The Empire Strikes Back", 
+      "movie_genre": "Action, Adventure, Sci-Fi", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Irvin Kershner", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 29
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Lost World", 
+      "movie_genre": "Adventure, Fantasy, Horror, Sci-Fi, Thriller", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Harry O. Hoyt", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 30
+  }, 
+  {
+    "fields": {
+      "movie_name": "A Clockwork Orange", 
+      "movie_genre": "Crime, Drama, Sci-Fi", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 31
+  }, 
+  {
+    "fields": {
+      "movie_name": "Frankenstein", 
+      "movie_genre": "Drama, Horror, Sci-Fi", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "James Whale", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 32
+  }, 
+  {
+    "fields": {
+      "movie_name": "Sesame Street", 
+      "movie_genre": "Animation, Comedy, Family, Fantasy, Music", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Lisa Simon", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 33
+  }, 
+  {
+    "fields": {
+      "movie_name": "La grande illusion", 
+      "movie_genre": "Drama, War", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Jean Renoir", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 34
+  }, 
+  {
+    "fields": {
+      "movie_name": "Raiders of the Lost Ark", 
+      "movie_genre": "Action, Adventure", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 35
+  }, 
+  {
+    "fields": {
+      "movie_name": "Night of the Living Dead", 
+      "movie_genre": "Horror, Mystery", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "George A. Romero", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 36
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Wizard of Oz", 
+      "movie_genre": "Comedy, Family, Fantasy, Adventure", 
+      "movie_99popularity": "53.0", 
+      "movie_director": "Larry Semon", 
+      "movie_imdbscore": "5.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 37
+  }, 
+  {
+    "fields": {
+      "movie_name": "THX 1138", 
+      "movie_genre": "Drama, Mystery, Sci-Fi, Thriller", 
+      "movie_99popularity": "68.0", 
+      "movie_director": "George Lucas", 
+      "movie_imdbscore": "6.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 38
+  }, 
+  {
+    "fields": {
+      "movie_name": "E.T. : The Extra-Terrestrial", 
+      "movie_genre": "Adventure, Drama, Family, Fantasy, Sci-Fi", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 39
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Poor Little Rich Girl", 
+      "movie_genre": "Comedy, Drama", 
+      "movie_99popularity": "69.0", 
+      "movie_director": "Maurice Tourneur", 
+      "movie_imdbscore": "6.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 40
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Tin Man", 
+      "movie_genre": "Short, Adventure, Comedy", 
+      "movie_99popularity": "46.0", 
+      "movie_director": "James Parrott", 
+      "movie_imdbscore": "4.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 41
+  }, 
+  {
+    "fields": {
+      "movie_name": "Taxi Driver", 
+      "movie_genre": "Drama, Thriller", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Martin Scorsese", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 42
+  }, 
+  {
+    "fields": {
+      "movie_name": "Il buono, il brutto, il cattivo.", 
+      "movie_genre": "Adventure, Western", 
+      "movie_99popularity": "90.0", 
+      "movie_director": "Sergio Leone", 
+      "movie_imdbscore": "9.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 43
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Battle at Elderbush Gulch", 
+      "movie_genre": "Short, Action, Western", 
+      "movie_99popularity": "66.0", 
+      "movie_director": "D.W. Griffith", 
+      "movie_imdbscore": "6.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 44
+  }, 
+  {
+    "fields": {
+      "movie_name": "Singin in the Rain", 
+      "movie_genre": "Comedy, Musical, Romance", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Stanley Donen", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 45
+  }, 
+  {
+    "fields": {
+      "movie_name": "On the Waterfront", 
+      "movie_genre": "Crime, Drama, Romance", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Elia Kazan", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 46
+  }, 
+  {
+    "fields": {
+      "movie_name": "The General", 
+      "movie_genre": "Comedy, Romance, War, Action", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Clyde Bruckman", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 47
+  }, 
+  {
+    "fields": {
+      "movie_name": "Ghost Busters", 
+      "movie_genre": "Adventure, Fantasy, Mystery", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Ivan Reitman", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 48
+  }, 
+  {
+    "fields": {
+      "movie_name": "Tarzan the Ape Man", 
+      "movie_genre": "Action, Adventure, Romance", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "W.S. Van Dyke", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 49
+  }, 
+  {
+    "fields": {
+      "movie_name": "His Majesty, the Scarecrow of Oz", 
+      "movie_genre": "Family, Fantasy, Adventure, Comedy", 
+      "movie_99popularity": "60.0", 
+      "movie_director": "L. Frank Baum", 
+      "movie_imdbscore": "6.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 50
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Twilight Zone", 
+      "movie_genre": "Drama, Fantasy, Mystery, Sci-Fi, Thriller", 
+      "movie_99popularity": "95.0", 
+      "movie_director": "John Brahm", 
+      "movie_imdbscore": "9.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 51
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Great Train Robbery", 
+      "movie_genre": "Short, Western", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Edwin S. Porter", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 52
+  }, 
+  {
+    "fields": {
+      "movie_name": "Goldfinger", 
+      "movie_genre": "Action, Adventure, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Guy Hamilton", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 53
+  }, 
+  {
+    "fields": {
+      "movie_name": "La dolce vita", 
+      "movie_genre": "Comedy, Drama", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Federico Fellini", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 54
+  }, 
+  {
+    "fields": {
+      "movie_name": "Alien", 
+      "movie_genre": "Adventure, Horror, Sci-Fi, Thriller", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Ridley Scott", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 55
+  }, 
+  {
+    "fields": {
+      "movie_name": "Nosferatu, eine Symphonie des Grauens", 
+      "movie_genre": "Fantasy, Horror", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "F.W. Murnau", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 56
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Shining", 
+      "movie_genre": "Horror, Mystery", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 57
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dr. Strangelove or : How I Learned to Stop Worrying and Love the Bomb", 
+      "movie_genre": "Comedy, Drama", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 58
+  }, 
+  {
+    "fields": {
+      "movie_name": "Scarface", 
+      "movie_genre": "Crime, Drama, Thriller", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Brian De Palma", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 59
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rocky", 
+      "movie_genre": "Drama, Romance, Sport", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "John G. Avildsen", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 60
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Simpsons", 
+      "movie_genre": "Animation, Comedy", 
+      "movie_99popularity": "90.0", 
+      "movie_director": "Mark Kirkland", 
+      "movie_imdbscore": "9.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 61
+  }, 
+  {
+    "fields": {
+      "movie_name": "Un chien andalou", 
+      "movie_genre": "Short, Fantasy", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Luis Bu1uel", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 62
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dracula", 
+      "movie_genre": "Fantasy, Horror", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Tod Browning", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 63
+  }, 
+  {
+    "fields": {
+      "movie_name": "First Blood", 
+      "movie_genre": "Action, Adventure, Drama, Thriller", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Ted Kotcheff", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 64
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Flintstones", 
+      "movie_genre": "Animation, Family, Comedy", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Joseph Barbera", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 65
+  }, 
+  {
+    "fields": {
+      "movie_name": "Batman", 
+      "movie_genre": "Action, Adventure, Comedy, Crime, Family, Fantasy, Mystery, Sci-Fi", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Oscar Rudolph", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 66
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Lost Patrol", 
+      "movie_genre": "Adventure, War", 
+      "movie_99popularity": "70.0", 
+      "movie_director": "John Ford", 
+      "movie_imdbscore": "7.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 67
+  }, 
+  {
+    "fields": {
+      "movie_name": "I Am a Fugitive from a Chain Gang", 
+      "movie_genre": "Crime, Drama, Film-Noir", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Mervyn LeRoy", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 68
+  }, 
+  {
+    "fields": {
+      "movie_name": "Back to the Future", 
+      "movie_genre": "Adventure, Family, Sci-Fi", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Robert Zemeckis", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 69
+  }, 
+  {
+    "fields": {
+      "movie_name": "Deliverance", 
+      "movie_genre": "Adventure, Drama, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "John Boorman", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 70
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rebecca", 
+      "movie_genre": "Mystery, Romance, Thriller", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 71
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Scarecrow", 
+      "movie_genre": "Comedy, Short, Family", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Edward F. Cline", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 72
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Texas Chain Saw Massacre", 
+      "movie_genre": "Horror, Mystery, Thriller", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Tobe Hooper", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 73
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Bridge on the River Kwai", 
+      "movie_genre": "Adventure, Drama, War", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "David Lean", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 74
+  }, 
+  {
+    "fields": {
+      "movie_name": "Its a Wonderful Life", 
+      "movie_genre": "Drama, Fantasy, Romance", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Frank Capra", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 75
+  }, 
+  {
+    "fields": {
+      "movie_name": "Sex, Lies, and Videotape", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Steven Soderbergh", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 76
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dirty Harry", 
+      "movie_genre": "Action, Crime, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Don Siegel", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 77
+  }, 
+  {
+    "fields": {
+      "movie_name": "My Fair Lady", 
+      "movie_genre": "Drama, Family, Musical, Romance", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "George Cukor", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 78
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dumbo", 
+      "movie_genre": "Animation, Family, Musical", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Samuel Armstrong", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 79
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Birds", 
+      "movie_genre": "Horror, Romance, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 80
+  }, 
+  {
+    "fields": {
+      "movie_name": "College", 
+      "movie_genre": "Comedy, Drama, Sport", 
+      "movie_99popularity": "72.0", 
+      "movie_director": "James W. Horne", 
+      "movie_imdbscore": "7.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 81
+  }, 
+  {
+    "fields": {
+      "movie_name": "Titanic", 
+      "movie_genre": "Drama, History, Romance", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "James Cameron", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 82
+  }, 
+  {
+    "fields": {
+      "movie_name": "Ben-Hur", 
+      "movie_genre": "Action, Adventure, Drama, History, Romance", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "William Wyler", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 83
+  }, 
+  {
+    "fields": {
+      "movie_name": "Pulp Fiction", 
+      "movie_genre": "Crime, Drama", 
+      "movie_99popularity": "90.0", 
+      "movie_director": "Quentin Tarantino", 
+      "movie_imdbscore": "9.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 84
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rear Window", 
+      "movie_genre": "Crime, Mystery, Romance, Thriller", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 85
+  }, 
+  {
+    "fields": {
+      "movie_name": "Aliens", 
+      "movie_genre": "Action, Sci-Fi, Thriller", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "James Cameron", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 86
+  }, 
+  {
+    "fields": {
+      "movie_name": "Algiers", 
+      "movie_genre": "Drama, Mystery, Romance", 
+      "movie_99popularity": "70.0", 
+      "movie_director": "John Cromwell", 
+      "movie_imdbscore": "7.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 87
+  }, 
+  {
+    "fields": {
+      "movie_name": "Greed", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Erich von Stroheim", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 88
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Silence of the Lambs", 
+      "movie_genre": "Crime, Thriller", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Jonathan Demme", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 89
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Circus", 
+      "movie_genre": "Comedy, Family, Drama, Romance", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Charles Chaplin", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 90
+  }, 
+  {
+    "fields": {
+      "movie_name": "The X Files", 
+      "movie_genre": "Drama, Mystery, Sci-Fi, Thriller", 
+      "movie_99popularity": "90.0", 
+      "movie_director": "Kim Manners", 
+      "movie_imdbscore": "9.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 91
+  }, 
+  {
+    "fields": {
+      "movie_name": "Terminator 2 : Judgment Day", 
+      "movie_genre": "Action, Sci-Fi, Thriller", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "James Cameron", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 92
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Oprah Winfrey Show", 
+      "movie_genre": "Talk-Show", 
+      "movie_99popularity": "60.0", 
+      "movie_director": "Joseph C. Terry", 
+      "movie_imdbscore": "6.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 93
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Graduate", 
+      "movie_genre": "Comedy, Drama, Romance", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Mike Nichols", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 94
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Bangville Police", 
+      "movie_genre": "Comedy, Short", 
+      "movie_99popularity": "55.0", 
+      "movie_director": "Henry Lehrman", 
+      "movie_imdbscore": "5.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 95
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Matrix", 
+      "movie_genre": "Action, Adventure, Sci-Fi", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Andy Wachowski", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 96
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Brady Bunch", 
+      "movie_genre": "Comedy, Family", 
+      "movie_99popularity": "70.0", 
+      "movie_director": "Oscar Rudolph", 
+      "movie_imdbscore": "7.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 97
+  }, 
+  {
+    "fields": {
+      "movie_name": "Lawrence of Arabia", 
+      "movie_genre": "Adventure, Biography, Drama, History, War", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "David Lean", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 98
+  }, 
+  {
+    "fields": {
+      "movie_name": "A Nightmare on Elm Street", 
+      "movie_genre": "Horror, Mystery", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Wes Craven", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 99
+  }, 
+  {
+    "fields": {
+      "movie_name": "Pygmalion", 
+      "movie_genre": "Comedy, Drama", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "George Schaefer", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 100
+  }, 
+  {
+    "fields": {
+      "movie_name": "North by Northwest", 
+      "movie_genre": "Adventure, Drama, Mystery, Romance, Thriller", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Alfred Hitchcock", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 101
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Sound of Music", 
+      "movie_genre": "Biography, Drama, Family, Musical", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Robert Wise", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 102
+  }, 
+  {
+    "fields": {
+      "movie_name": "Gilligans Island", 
+      "movie_genre": "Comedy, Family", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Jack Arnold", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 103
+  }, 
+  {
+    "fields": {
+      "movie_name": "Bambi", 
+      "movie_genre": "Animation, Drama, Family", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "James Algar", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 104
+  }, 
+  {
+    "fields": {
+      "movie_name": "West Side Story", 
+      "movie_genre": "Crime, Drama, Musical, Romance", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Jerome Robbins", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 105
+  }, 
+  {
+    "fields": {
+      "movie_name": "From Here to Eternity", 
+      "movie_genre": "Drama, Romance, War", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Fred Zinnemann", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 106
+  }, 
+  {
+    "fields": {
+      "movie_name": "Halloween", 
+      "movie_genre": "Horror, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "John Carpenter", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 107
+  }, 
+  {
+    "fields": {
+      "movie_name": "I Love Lucy", 
+      "movie_genre": "Comedy, Family", 
+      "movie_99popularity": "90.0", 
+      "movie_director": "William Asher", 
+      "movie_imdbscore": "9.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 108
+  }, 
+  {
+    "fields": {
+      "movie_name": "Mad Love", 
+      "movie_genre": "Romance, Horror", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Karl Freund", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 109
+  }, 
+  {
+    "fields": {
+      "movie_name": "Blade Runner", 
+      "movie_genre": "Drama, Sci-Fi, Thriller", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Ridley Scott", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 110
+  }, 
+  {
+    "fields": {
+      "movie_name": "Mary Poppins", 
+      "movie_genre": "Comedy, Family, Fantasy, Musical", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Robert Stevenson", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 111
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Wars : Episode VI - Return of the Jedi", 
+      "movie_genre": "Action, Adventure, Fantasy, Sci-Fi", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Richard Marquand", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 112
+  }, 
+  {
+    "fields": {
+      "movie_name": "Close Encounters of the Third Kind", 
+      "movie_genre": "Drama, Sci-Fi", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 113
+  }, 
+  {
+    "fields": {
+      "movie_name": "Shichinin no samurai", 
+      "movie_genre": "Adventure, Drama", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Akira Kurosawa", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 114
+  }, 
+  {
+    "fields": {
+      "movie_name": "Bride of Frankenstein", 
+      "movie_genre": "Horror, Sci-Fi", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "James Whale", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 115
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Treasure of the Sierra Madre", 
+      "movie_genre": "Adventure, Drama, Western, Action", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "John Huston", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 116
+  }, 
+  {
+    "fields": {
+      "movie_name": "5 Against the House", 
+      "movie_genre": "Drama, Crime, Film-Noir", 
+      "movie_99popularity": "60.0", 
+      "movie_director": "Phil Karlson", 
+      "movie_imdbscore": "6.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 117
+  }, 
+  {
+    "fields": {
+      "movie_name": "Kagemusha", 
+      "movie_genre": "Drama, History, War", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Akira Kurosawa", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 118
+  }, 
+  {
+    "fields": {
+      "movie_name": "His Trust Fulfilled", 
+      "movie_genre": "Short, Drama", 
+      "movie_99popularity": "47.0", 
+      "movie_director": "D.W. Griffith", 
+      "movie_imdbscore": "4.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 119
+  }, 
+  {
+    "fields": {
+      "movie_name": "His Trust", 
+      "movie_genre": "Short, Drama, War", 
+      "movie_99popularity": "53.0", 
+      "movie_director": "D.W. Griffith", 
+      "movie_imdbscore": "5.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 120
+  }, 
+  {
+    "fields": {
+      "movie_name": "Gojira", 
+      "movie_genre": "Drama, Horror, Sci-Fi, Thriller", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Ishirccab Honda", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 121
+  }, 
+  {
+    "fields": {
+      "movie_name": "Spartacus", 
+      "movie_genre": "Action, Adventure, Biography, Drama, History", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 122
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dreams of the Rarebit Fiend : The Pet", 
+      "movie_genre": "Animation, Short", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Winsor McCay", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 123
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Maltese Falcon", 
+      "movie_genre": "Crime, Film-Noir, Mystery", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "John Huston", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 124
+  }, 
+  {
+    "fields": {
+      "movie_name": "Planet of the Apes", 
+      "movie_genre": "Adventure, Mystery, Sci-Fi", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Franklin J. Schaffner", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 125
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Sea Hawk", 
+      "movie_genre": "Adventure, Drama, Romance", 
+      "movie_99popularity": "72.0", 
+      "movie_director": "Frank Lloyd", 
+      "movie_imdbscore": "7.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 126
+  }, 
+  {
+    "fields": {
+      "movie_name": "All Quiet on the Western Front", 
+      "movie_genre": "Action, Drama, History, War", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Lewis Milestone", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 127
+  }, 
+  {
+    "fields": {
+      "movie_name": "Der Golem, wie er in die Welt kam", 
+      "movie_genre": "Fantasy, Horror", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Carl Boese", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 128
+  }, 
+  {
+    "fields": {
+      "movie_name": "In Like Flint", 
+      "movie_genre": "Action, Adventure, Comedy, Sci-Fi", 
+      "movie_99popularity": "59.0", 
+      "movie_director": "Gordon Douglas", 
+      "movie_imdbscore": "5.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 129
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Bells of St. Marys", 
+      "movie_genre": "Drama, Family", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Leo McCarey", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 130
+  }, 
+  {
+    "fields": {
+      "movie_name": "Duel", 
+      "movie_genre": "Mystery, Thriller", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 131
+  }, 
+  {
+    "fields": {
+      "movie_name": "Stachka", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Sergei M. Eisenstein", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 132
+  }, 
+  {
+    "fields": {
+      "movie_name": "Oklahoma!", 
+      "movie_genre": "Musical, Romance, Western", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Fred Zinnemann", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 133
+  }, 
+  {
+    "fields": {
+      "movie_name": "At Land", 
+      "movie_genre": "Short", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Maya Deren", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 134
+  }, 
+  {
+    "fields": {
+      "movie_name": "Jurassic Park", 
+      "movie_genre": "Action, Adventure, Family, Sci-Fi", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Steven Spielberg", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 135
+  }, 
+  {
+    "fields": {
+      "movie_name": "Stagecoach", 
+      "movie_genre": "Action, Drama, Romance, Western", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "John Ford", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 136
+  }, 
+  {
+    "fields": {
+      "movie_name": "Paths of Glory", 
+      "movie_genre": "Crime, Drama, War", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 137
+  }, 
+  {
+    "fields": {
+      "movie_name": "Happy Days", 
+      "movie_genre": "Comedy, Family, Music", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Jerry Paris", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 138
+  }, 
+  {
+    "fields": {
+      "movie_name": "Saturday Night Fever", 
+      "movie_genre": "Drama, Music, Romance", 
+      "movie_99popularity": "68.0", 
+      "movie_director": "John Badham", 
+      "movie_imdbscore": "6.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 139
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Philadelphia Story", 
+      "movie_genre": "Comedy, Romance", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "George Cukor", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 140
+  }, 
+  {
+    "fields": {
+      "movie_name": "8xe5", 
+      "movie_genre": "Drama, Fantasy", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Federico Fellini", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 141
+  }, 
+  {
+    "fields": {
+      "movie_name": "Doctor Who", 
+      "movie_genre": "Adventure, Drama, Sci-Fi", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Douglas Camfield", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 142
+  }, 
+  {
+    "fields": {
+      "movie_name": "M", 
+      "movie_genre": "Crime, Thriller", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Fritz Lang", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 143
+  }, 
+  {
+    "fields": {
+      "movie_name": "Moby Dick", 
+      "movie_genre": "Adventure, Drama", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "John Huston", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 144
+  }, 
+  {
+    "fields": {
+      "movie_name": "Carrie", 
+      "movie_genre": "Horror, Thriller", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Brian De Palma", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 145
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rebel Without a Cause", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Nicholas Ray", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 146
+  }, 
+  {
+    "fields": {
+      "movie_name": "Superman", 
+      "movie_genre": "Action, Adventure, Family, Sci-Fi", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Richard Donner", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 147
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Muppet Show", 
+      "movie_genre": "Comedy, Family, Music", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Peter Harris", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 148
+  }, 
+  {
+    "fields": {
+      "movie_name": "Pinocchio", 
+      "movie_genre": "Animation, Drama, Family, Fantasy, Music", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Norman Ferguson", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 149
+  }, 
+  {
+    "fields": {
+      "movie_name": "21-87", 
+      "movie_genre": "Short", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Arthur Lipsett", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 150
+  }, 
+  {
+    "fields": {
+      "movie_name": "Scooby Doo, Where Are You!", 
+      "movie_genre": "Animation, Family, Mystery, Comedy, Adventure", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Joseph Barbera", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 151
+  }, 
+  {
+    "fields": {
+      "movie_name": "Animal Farm", 
+      "movie_genre": "Animation, Drama", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Joy Batchelor", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 152
+  }, 
+  {
+    "fields": {
+      "movie_name": "Swing Your Lady", 
+      "movie_genre": "Comedy, Music, Romance, Sport", 
+      "movie_99popularity": "48.0", 
+      "movie_director": "Ray Enright", 
+      "movie_imdbscore": "4.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 153
+  }, 
+  {
+    "fields": {
+      "movie_name": "Shane", 
+      "movie_genre": "Drama, Western", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "George Stevens", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 154
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Karate Kid", 
+      "movie_genre": "Drama, Family, Sport", 
+      "movie_99popularity": "69.0", 
+      "movie_director": "John G. Avildsen", 
+      "movie_imdbscore": "6.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 155
+  }, 
+  {
+    "fields": {
+      "movie_name": "Jeopardy!", 
+      "movie_genre": "Game-Show", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Kevin McCarthy", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 156
+  }, 
+  {
+    "fields": {
+      "movie_name": "Leave It to Beaver", 
+      "movie_genre": "Comedy, Family", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Norman Tokar", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 157
+  }, 
+  {
+    "fields": {
+      "movie_name": "Bonnie and Clyde", 
+      "movie_genre": "Biography, Crime, Drama, Romance", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Arthur Penn", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 158
+  }, 
+  {
+    "fields": {
+      "movie_name": "One Flew Over the Cuckoos Nest", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "89.0", 
+      "movie_director": "Milos Forman", 
+      "movie_imdbscore": "8.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 159
+  }, 
+  {
+    "fields": {
+      "movie_name": "Saturday Night Live", 
+      "movie_genre": "Comedy, Music", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Dave Wilson", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 160
+  }, 
+  {
+    "fields": {
+      "movie_name": "Cera una volta il West", 
+      "movie_genre": "Western", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Sergio Leone", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 161
+  }, 
+  {
+    "fields": {
+      "movie_name": "Sunrise : A Song of Two Humans", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "F.W. Murnau", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 162
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Lion King", 
+      "movie_genre": "Animation, Adventure, Drama, Family, Musical", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Roger Allers", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 163
+  }, 
+  {
+    "fields": {
+      "movie_name": "Plane Crazy", 
+      "movie_genre": "Animation, Family, Comedy, Short", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Walt Disney", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 164
+  }, 
+  {
+    "fields": {
+      "movie_name": "60 Minutes", 
+      "movie_genre": "Documentary, News", 
+      "movie_99popularity": "64.0", 
+      "movie_director": "Rob Klug", 
+      "movie_imdbscore": "6.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 165
+  }, 
+  {
+    "fields": {
+      "movie_name": "Lolita", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 166
+  }, 
+  {
+    "fields": {
+      "movie_name": "Die Hard", 
+      "movie_genre": "Action, Crime, Thriller", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "John McTiernan", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 167
+  }, 
+  {
+    "fields": {
+      "movie_name": "Laura", 
+      "movie_genre": "Crime, Film-Noir, Mystery, Romance, Thriller", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Otto Preminger", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 168
+  }, 
+  {
+    "fields": {
+      "movie_name": "Easy Rider", 
+      "movie_genre": "Crime, Drama", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Dennis Hopper", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 169
+  }, 
+  {
+    "fields": {
+      "movie_name": "Invasion of the Body Snatchers", 
+      "movie_genre": "Horror, Sci-Fi, Thriller", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Don Siegel", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 170
+  }, 
+  {
+    "fields": {
+      "movie_name": "Lanncca9e derniccacre ccca Marienbad", 
+      "movie_genre": "Drama, Mystery, Romance", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Alain Resnais", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 171
+  }, 
+  {
+    "fields": {
+      "movie_name": "Lady in a Cage", 
+      "movie_genre": "Drama, Thriller", 
+      "movie_99popularity": "68.0", 
+      "movie_director": "Walter Grauman", 
+      "movie_imdbscore": "6.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 172
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Evil Dead", 
+      "movie_genre": "Horror", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Sam Raimi", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 173
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Tonight Show Starring Johnny Carson", 
+      "movie_genre": "Comedy, Music, Talk-Show", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Bobby Quinn", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 174
+  }, 
+  {
+    "fields": {
+      "movie_name": "Top Gun", 
+      "movie_genre": "Action, Drama, Romance", 
+      "movie_99popularity": "66.0", 
+      "movie_director": "Tony Scott", 
+      "movie_imdbscore": "6.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 175
+  }, 
+  {
+    "fields": {
+      "movie_name": "You Only Live Twice", 
+      "movie_genre": "Action, Adventure, Sci-Fi, Thriller", 
+      "movie_99popularity": "69.0", 
+      "movie_director": "Lewis Gilbert", 
+      "movie_imdbscore": "6.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 176
+  }, 
+  {
+    "fields": {
+      "movie_name": "From Russia with Love", 
+      "movie_genre": "Action, Adventure, Romance, Thriller", 
+      "movie_99popularity": "75.0", 
+      "movie_director": "Terence Young", 
+      "movie_imdbscore": "7.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 177
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Lone Ranger", 
+      "movie_genre": "Adventure, Western, Family", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Hollingsworth Morse", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 178
+  }, 
+  {
+    "fields": {
+      "movie_name": "Deep Throat", 
+      "movie_genre": "Adult, Comedy", 
+      "movie_99popularity": "52.0", 
+      "movie_director": "Gerard Damiano", 
+      "movie_imdbscore": "5.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 179
+  }, 
+  {
+    "fields": {
+      "movie_name": "Shock Corridor", 
+      "movie_genre": "Drama, Mystery", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Samuel Fuller", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 180
+  }, 
+  {
+    "fields": {
+      "movie_name": "Enter the Dragon", 
+      "movie_genre": "Action, Crime, Drama, Thriller", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Robert Clouse", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 181
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Magnificent Seven", 
+      "movie_genre": "Western, Adventure, Drama", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "John Sturges", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 182
+  }, 
+  {
+    "fields": {
+      "movie_name": "Underworld", 
+      "movie_genre": "Crime, Drama", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Josef von Sternberg", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 183
+  }, 
+  {
+    "fields": {
+      "movie_name": "She Wore a Yellow Ribbon", 
+      "movie_genre": "Western", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "John Ford", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 184
+  }, 
+  {
+    "fields": {
+      "movie_name": "Un dans la ville", 
+      "movie_genre": "Drama, Thriller", 
+      "movie_99popularity": "67.0", 
+      "movie_director": "Edouard Molinaro", 
+      "movie_imdbscore": "6.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 185
+  }, 
+  {
+    "fields": {
+      "movie_name": "Batman", 
+      "movie_genre": "Crime, Drama, Thriller", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Tim Burton", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 186
+  }, 
+  {
+    "fields": {
+      "movie_name": "Cinderella", 
+      "movie_genre": "Animation, Family, Fantasy, Musical, Romance", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Clyde Geronimi", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 187
+  }, 
+  {
+    "fields": {
+      "movie_name": "Tarzans Magic Fountain", 
+      "movie_genre": "Action, Adventure, Fantasy, Romance", 
+      "movie_99popularity": "55.0", 
+      "movie_director": "Lee Sholem", 
+      "movie_imdbscore": "5.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 188
+  }, 
+  {
+    "fields": {
+      "movie_name": "High Noon", 
+      "movie_genre": "Drama, Western", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Fred Zinnemann", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 189
+  }, 
+  {
+    "fields": {
+      "movie_name": "Triumph des Willens", 
+      "movie_genre": "Documentary, War", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Leni Riefenstahl", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 190
+  }, 
+  {
+    "fields": {
+      "movie_name": "Mr. Smith Goes to Washington", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Frank Capra", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 191
+  }, 
+  {
+    "fields": {
+      "movie_name": "Grease", 
+      "movie_genre": "Musical, Romance", 
+      "movie_99popularity": "70.0", 
+      "movie_director": "Randal Kleiser", 
+      "movie_imdbscore": "7.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 192
+  }, 
+  {
+    "fields": {
+      "movie_name": "Intolerance : Loves Struggle Throughout the Ages", 
+      "movie_genre": "Drama, History, Romance", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "D.W. Griffith", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 193
+  }, 
+  {
+    "fields": {
+      "movie_name": "Reservoir Dogs", 
+      "movie_genre": "Crime, Mystery, Thriller", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Quentin Tarantino", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 194
+  }, 
+  {
+    "fields": {
+      "movie_name": "A Place in the Sun", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "George Stevens", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 195
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Third Man", 
+      "movie_genre": "Film-Noir, Mystery, Thriller", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Carol Reed", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 196
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Gold Rush", 
+      "movie_genre": "Adventure, Comedy, Family, Romance, Western", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "Charles Chaplin", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 197
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Ten Commandments", 
+      "movie_genre": "Adventure, Drama, History", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Cecil B. DeMille", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 198
+  }, 
+  {
+    "fields": {
+      "movie_name": "My Darling Clementine", 
+      "movie_genre": "Drama, Western", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "John Ford", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 199
+  }, 
+  {
+    "fields": {
+      "movie_name": "Sunset Blvd.", 
+      "movie_genre": "Drama, Film-Noir", 
+      "movie_99popularity": "87.0", 
+      "movie_director": "Billy Wilder", 
+      "movie_imdbscore": "8.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 200
+  }, 
+  {
+    "fields": {
+      "movie_name": "Friday the 13th", 
+      "movie_genre": "Horror, Mystery, Thriller", 
+      "movie_99popularity": "63.0", 
+      "movie_director": "Sean S. Cunningham", 
+      "movie_imdbscore": "6.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 201
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Great Escape", 
+      "movie_genre": "Adventure, Drama, History, War", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "John Sturges", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 202
+  }, 
+  {
+    "fields": {
+      "movie_name": "Play Misty for Me", 
+      "movie_genre": "Crime, Drama, Romance, Thriller", 
+      "movie_99popularity": "70.0", 
+      "movie_director": "Clint Eastwood", 
+      "movie_imdbscore": "7.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 203
+  }, 
+  {
+    "fields": {
+      "movie_name": "Jerry Maguire", 
+      "movie_genre": "Comedy, Drama, Romance, Sport", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Cameron Crowe", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 204
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Enforcer", 
+      "movie_genre": "Drama, Crime, Film-Noir", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Bretaigne Windust", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 205
+  }, 
+  {
+    "fields": {
+      "movie_name": "Fantastic Voyage", 
+      "movie_genre": "Adventure, Sci-Fi", 
+      "movie_99popularity": "68.0", 
+      "movie_director": "Richard Fleischer", 
+      "movie_imdbscore": "6.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 206
+  }, 
+  {
+    "fields": {
+      "movie_name": "Butch Cassidy and the Sundance Kid", 
+      "movie_genre": "Adventure, Crime, Drama, Western", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "George Roy Hill", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 207
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Andy Griffith Show", 
+      "movie_genre": "Comedy, Family", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Bob Sweeney", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 208
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Blues Brothers", 
+      "movie_genre": "Action, Comedy, Music, Musical", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "John Landis", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 209
+  }, 
+  {
+    "fields": {
+      "movie_name": "Forrest Gump", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "86.0", 
+      "movie_director": "Robert Zemeckis", 
+      "movie_imdbscore": "8.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 210
+  }, 
+  {
+    "fields": {
+      "movie_name": "Some Like It Hot", 
+      "movie_genre": "Comedy", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Billy Wilder", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 211
+  }, 
+  {
+    "fields": {
+      "movie_name": "American Idol : The Search for a Superstar", 
+      "movie_genre": "Game-Show, Music, Reality-TV", 
+      "movie_99popularity": "48.0", 
+      "movie_director": "Bruce Gowers", 
+      "movie_imdbscore": "4.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 212
+  }, 
+  {
+    "fields": {
+      "movie_name": "Fight Club", 
+      "movie_genre": "Drama, Mystery, Thriller", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "David Fincher", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 213
+  }, 
+  {
+    "fields": {
+      "movie_name": "Revenge of the Creature", 
+      "movie_genre": "Horror, Sci-Fi", 
+      "movie_99popularity": "51.0", 
+      "movie_director": "Jack Arnold", 
+      "movie_imdbscore": "5.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 214
+  }, 
+  {
+    "fields": {
+      "movie_name": "Chinatown", 
+      "movie_genre": "Drama, Mystery, Thriller", 
+      "movie_99popularity": "85.0", 
+      "movie_director": "Roman Polanski", 
+      "movie_imdbscore": "8.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 215
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Wild Bunch", 
+      "movie_genre": "Action, Western", 
+      "movie_99popularity": "81.0", 
+      "movie_director": "Sam Peckinpah", 
+      "movie_imdbscore": "8.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 216
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Lord of the Rings : The Fellowship of the Ring", 
+      "movie_genre": "Action, Adventure, Fantasy", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Peter Jackson", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 217
+  }, 
+  {
+    "fields": {
+      "movie_name": "Mutiny on the Bounty", 
+      "movie_genre": "Adventure, Drama, History", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "Frank Lloyd", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 218
+  }, 
+  {
+    "fields": {
+      "movie_name": "El", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Luis el", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 219
+  }, 
+  {
+    "fields": {
+      "movie_name": "Full Metal Jacket", 
+      "movie_genre": "Drama, War", 
+      "movie_99popularity": "84.0", 
+      "movie_director": "Stanley Kubrick", 
+      "movie_imdbscore": "8.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 220
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Pride and the Passion", 
+      "movie_genre": "Action, Adventure, Drama, Romance, War", 
+      "movie_99popularity": "55.0", 
+      "movie_director": "Stanley Kramer", 
+      "movie_imdbscore": "5.5", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 221
+  }, 
+  {
+    "fields": {
+      "movie_name": "This Is Spinal Tap", 
+      "movie_genre": "Comedy, Music", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Rob Reiner", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 222
+  }, 
+  {
+    "fields": {
+      "movie_name": "Winchester 73", 
+      "movie_genre": "Western", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "Anthony Mann", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 223
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Trek : The Next Generation", 
+      "movie_genre": "Action, Adventure, Sci-Fi", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Cliff Bole", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 224
+  }, 
+  {
+    "fields": {
+      "movie_name": "Kojak", 
+      "movie_genre": "Crime, Drama, Mystery", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Charles S. Dubin", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 225
+  }, 
+  {
+    "fields": {
+      "movie_name": "Gryozy", 
+      "movie_genre": "Drama, Short", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "Yevgeni Bauer", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 226
+  }, 
+  {
+    "fields": {
+      "movie_name": "Baywatch", 
+      "movie_genre": "Drama, Action, Adventure", 
+      "movie_99popularity": "49.0", 
+      "movie_director": "Gregory J. Bonann", 
+      "movie_imdbscore": "4.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 227
+  }, 
+  {
+    "fields": {
+      "movie_name": "Heavy Metal", 
+      "movie_genre": "Animation, Action, Adventure, Comedy, Crime, Fantasy, Horror, Sci-Fi", 
+      "movie_99popularity": "64.0", 
+      "movie_director": "Gerald Potterton", 
+      "movie_imdbscore": "6.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 228
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Day the Earth Stood Still", 
+      "movie_genre": "Drama, Sci-Fi, Thriller", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Robert Wise", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 229
+  }, 
+  {
+    "fields": {
+      "movie_name": "Three Little Pigs", 
+      "movie_genre": "Animation, Musical, Family, Comedy, Short", 
+      "movie_99popularity": "77.0", 
+      "movie_director": "Burt Gillett", 
+      "movie_imdbscore": "7.7", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 230
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Public Enemy", 
+      "movie_genre": "Action, Crime, Drama", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "William A. Wellman", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 231
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Rocky Horror Picture Show", 
+      "movie_genre": "Comedy, Musical", 
+      "movie_99popularity": "71.0", 
+      "movie_director": "Jim Sharman", 
+      "movie_imdbscore": "7.1", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 232
+  }, 
+  {
+    "fields": {
+      "movie_name": "Rain Man", 
+      "movie_genre": "Drama", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Barry Levinson", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 233
+  }, 
+  {
+    "fields": {
+      "movie_name": "Latalante", 
+      "movie_genre": "Drama, Romance", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "Jean Vigo", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 234
+  }, 
+  {
+    "fields": {
+      "movie_name": "Persona", 
+      "movie_genre": "Drama, Fantasy", 
+      "movie_99popularity": "82.0", 
+      "movie_director": "Ingmar Bergman", 
+      "movie_imdbscore": "8.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 235
+  }, 
+  {
+    "fields": {
+      "movie_name": "Dawn of the Dead", 
+      "movie_genre": "Action, Horror", 
+      "movie_99popularity": "80.0", 
+      "movie_director": "George A. Romero", 
+      "movie_imdbscore": "8.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 236
+  }, 
+  {
+    "fields": {
+      "movie_name": "Bonanza", 
+      "movie_genre": "Action, Comedy, Drama, Romance, War, Western", 
+      "movie_99popularity": "74.0", 
+      "movie_director": "William F. Claxton", 
+      "movie_imdbscore": "7.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 237
+  }, 
+  {
+    "fields": {
+      "movie_name": "Fatal Attraction", 
+      "movie_genre": "Drama, Thriller", 
+      "movie_99popularity": "68.0", 
+      "movie_director": "Adrian Lyne", 
+      "movie_imdbscore": "6.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 238
+  }, 
+  {
+    "fields": {
+      "movie_name": "It! The Terror from Beyond Space", 
+      "movie_genre": "Horror, Sci-Fi", 
+      "movie_99popularity": "60.0", 
+      "movie_director": "Edward L. Cahn", 
+      "movie_imdbscore": "6.0", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 239
+  }, 
+  {
+    "fields": {
+      "movie_name": "Toast of the Town", 
+      "movie_genre": "Comedy, Music", 
+      "movie_99popularity": "83.0", 
+      "movie_director": "John Moffitt", 
+      "movie_imdbscore": "8.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 240
+  }, 
+  {
+    "fields": {
+      "movie_name": "The French Connection", 
+      "movie_genre": "Action, Crime, Thriller", 
+      "movie_99popularity": "79.0", 
+      "movie_director": "William Friedkin", 
+      "movie_imdbscore": "7.9", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 241
+  }, 
+  {
+    "fields": {
+      "movie_name": "Peter Pan", 
+      "movie_genre": "Animation, Adventure, Family, Fantasy, Music", 
+      "movie_99popularity": "73.0", 
+      "movie_director": "Clyde Geronimi", 
+      "movie_imdbscore": "7.3", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 242
+  }, 
+  {
+    "fields": {
+      "movie_name": "Miami Vice", 
+      "movie_genre": "Action, Crime, Drama, Thriller", 
+      "movie_99popularity": "78.0", 
+      "movie_director": "John Nicolella", 
+      "movie_imdbscore": "7.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 243
+  }, 
+  {
+    "fields": {
+      "movie_name": "Star Wars : Episode I - The Phantom Menace", 
+      "movie_genre": "Action, Adventure, Fantasy, Sci-Fi", 
+      "movie_99popularity": "64.0", 
+      "movie_director": "George Lucas", 
+      "movie_imdbscore": "6.4", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 244
+  }, 
+  {
+    "fields": {
+      "movie_name": "Goodfellas", 
+      "movie_genre": "Crime, Drama, Thriller", 
+      "movie_99popularity": "88.0", 
+      "movie_director": "Martin Scorsese", 
+      "movie_imdbscore": "8.8", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 245
+  }, 
+  {
+    "fields": {
+      "movie_name": "The Egyptian", 
+      "movie_genre": "Drama, History", 
+      "movie_99popularity": "62.0", 
+      "movie_director": "Michael Curtiz", 
+      "movie_imdbscore": "6.2", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 246
+  }, 
+  {
+    "fields": {
+      "movie_name": "Hawaii Five-O", 
+      "movie_genre": "Crime, Drama, Mystery", 
+      "movie_99popularity": "76.0", 
+      "movie_director": "Michael OHerlihy", 
+      "movie_imdbscore": "7.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 247
+  }, 
+  {
+    "fields": {
+      "movie_name": "Charlies Angels", 
+      "movie_genre": "Action, Adventure, Crime, Drama, Mystery", 
+      "movie_99popularity": "66.0", 
+      "movie_director": "Dennis Donnelly", 
+      "movie_imdbscore": "6.6", 
+      "entry_date": "2015-08-19T18:22:26Z"
+    }, 
+    "model": "movies.movie", 
+    "pk": 248
+  }
+]

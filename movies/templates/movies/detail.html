@@ -1,0 +1,10 @@
+{% if movie %}
+    <h3>{{ movie.movie_name }}</h3>
+    <li> Director: {{ movie.movie_director }}</li>
+    <li> Genre: {{ movie.movie_genre }}</li>
+    <li> IMDB Rating: {{ movie.movie_imdbscore }}</li>
+    <li> 99popularity: {{ movie.movie_99popularity }}</li>
+    <li> Date added: {{ movie.entry_date }}</li>
+{% else %}
+    <p>No movie with given id.</p>
+{% endif %}

@@ -1,0 +1,36 @@
+<h2> Movies matching Search Query</h2>
+{{ "Valid Search Query examples:" }}
+<br/>
+{{ "\"the\" " }}
+{{ "(Keyword Search)" }}
+<br/>
+{{ "\"title=bat\", " }}
+{{ "\"title=the bat\", " }}
+{{ "\"director=ford\", " }}
+{{ "\"director=francis ford\", " }}
+{{ "(name=value)" }}
+<br/>
+{{ "\"imdbscore=8\", " }}
+{{ "\"99popularity=88\" " }}
+{{ "(Displays values greater than or equal to integer value specified)" }}
+<br/>
+{{ "\"genre=action\", " }}
+{{ "\"genre=action,adventure\"" }}
+<br/>
+<br/>
+
+<form action="{% url 'movies:search'%}" method="post">
+    {% csrf_token %}
+    <input type="text" name="search" value="{{ request.POST.search }}"/>
+    <input type="submit" value="Submit"/>
+</form>
+
+{% if movies_list %}
+    <ul>
+        {% for movie in movies_list %}
+            <li><a href="{% url 'movies:detail' movie.id %}">{{ movie.movie_name }}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No movies are available.</p>
+{% endif %}

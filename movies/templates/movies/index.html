@@ -1,0 +1,28 @@
+<h2> Movies </h2>
+{{ "Recently added" }}
+
+{% if movies_list %}
+    <ul>
+        {% for movie in movies_list %}
+            <li><a href="{% url 'movies:detail' movie.id %}">{{ movie.movie_name }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <div class="pagination">
+        <span class="step-links">
+            {% if movies_list.has_previous %}
+                <a href="?page={{ movies_list.previous_page_number }}">previous</a>
+            {% endif %}
+
+            <span class="current">
+                Page {{ movies_list.number }} of {{ movies_list.paginator.num_pages }}.
+            </span>
+
+            {% if movies_list.has_next %}
+                <a href="?page={{ movies_list.next_page_number }}">next</a>
+            {% endif %}
+        </span>
+    </div>
+{% else %}
+    <p>No movies are available.</p>
+{% endif %}
